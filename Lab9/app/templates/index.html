@@ -1,0 +1,18 @@
+
+<html>
+<table>
+  <tr>
+    <th>Timestamp</th>
+    <th>Name</th>
+    <th>Message</th>
+{% for m in messages%}
+ <tr>
+    <td>{{m['timestamp']}}</td>
+    <td><b>{{m['user']}}</b></td>
+    <td>{{m['message']}}</td>
+ </tr>
+{% endfor %}
+</table>
+
+</html>
+
