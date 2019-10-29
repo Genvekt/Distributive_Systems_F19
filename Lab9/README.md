@@ -223,7 +223,7 @@ rs0:PRIMARY> rs.config()
 
 ### After the deletion of primary data node:
 #####  Simple Web Chat Application Screenshot:
-![Screenshot](https://raw.githubusercontent.com/Genvekt/Distributive_Systems_F19/master/Lab9/Screenshot%20from%202019-10-29%2016-42-59.png)
+![Screenshot](https://raw.githubusercontent.com/Genvekt/Distributive_Systems_F19/master/Lab9/Screenshot%20from%202019-10-29%2016-52-26.png)
 ##### rs.status() output:
 ```
 rs0:PRIMARY> rs.status()
